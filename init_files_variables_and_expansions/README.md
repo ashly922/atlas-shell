@@ -1,0 +1,1 @@
+# This directory contains shell, init files, and expansions practice
